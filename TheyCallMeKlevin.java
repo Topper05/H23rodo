@@ -42,7 +42,7 @@ public class TheyCallMeKlevin extends JuniorRobot
 	public void onHitByBullet() {
 		// Replace the next line with any behavior you would like
 		back(100);
-		turnGunRight(135);
+		turnGunRight(75);
 	}
 	
 	/**
